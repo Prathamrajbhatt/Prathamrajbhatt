@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Raj Bhatt</h1>
 <h3 align="center">I am a pre-final year Electrical Engineering student at NIT Allahabad(MNNIT).</h3>
-<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1TF4O7sJnTldTxV16KJK3E&ust=1717333833516000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj1rZq9uoYDFQAAAAAdAAAAABAE" srcsrc="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1TF4O7sJnTldTxV16KJK3E&ust=1717333833516000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj1rZq9uoYDFQAAAAAdAAAAABAE" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamrajbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="prathamrajbhatt" /> </p>
 
